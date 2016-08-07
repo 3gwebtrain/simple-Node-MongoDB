@@ -1,0 +1,29 @@
+{
+  "name": "simple-node-mongodb",
+  "version": "1.0.0",
+  "description": "simple node with mongodb application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3gwebtrain/simple-Node-MongoDB.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "application",
+    "simple",
+    "applicaiton"
+  ],
+  "author": "Mohamed Arif B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3gwebtrain/simple-Node-MongoDB/issues"
+  },
+  "homepage": "https://github.com/3gwebtrain/simple-Node-MongoDB#readme",
+  "dependencies": {
+    "mongodb": "^2.2.5"
+  }
+}
